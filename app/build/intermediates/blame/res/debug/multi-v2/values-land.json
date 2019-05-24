@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/dimrix/Desktop/Android/Learning/architectureComponentsSunshineStartingCode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/dimrix/.gradle/caches/transforms-2/files-2.1/0365ff2d6c7f65847b4d19ff5819445a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "/Users/dimrix/Desktop/Android/Learning/architectureComponentsSunshineStartingCode/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "694,760",
+                        "endColumns": "65,63",
+                        "endOffsets": "755,819"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,330",
+                        "endColumns": "65,63",
+                        "endOffsets": "325,389"
+                    }
+                }
+            ]
+        }
+    ]
+}
